@@ -21,5 +21,5 @@ The following command will allow you to create list of numbers
 x <- c(4, 5, 6....)
 To run the test itself, the command is 
 t.test(x,y)
-Notice that it takes two arguments so y shold be a list of numbers as well. 
-By default it's unpaired
+Notice that it takes two arguments so y should be a list of numbers as well. 
+By default, the test sample sets are unpaired
