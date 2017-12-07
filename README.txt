@@ -16,3 +16,10 @@ Used to initailly test a set of words in a small article sample
 N-gramsFINAL.ipynb
 Calculates bigrams and trigrams of article and returns top 20 trigrams per article type. Counts total bi-grams and trigrams as well.
 
+Ttest
+The following command will allow you to create list of numbers
+x <- c(4, 5, 6....)
+To run the test itself, the command is 
+t.test(x,y)
+Notice that it takes two arguments so y shold be a list of numbers as well. 
+By default it's unpaired
